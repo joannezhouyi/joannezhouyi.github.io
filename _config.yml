@@ -37,19 +37,6 @@ footer:
   social:  
   credits:  
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title:  
-    url: 
-  - title:  
-    url:
-  - title:  
-    url: 
-  - title:  
-    url:  
-  - title: github
-    url: http://github.com/joannezhouyi
-
 # Postal address (add as many lines as necessary)
 address:
   - line:  
